@@ -1,0 +1,20 @@
+# source
+lib
+e2e
+
+# config
+tsconfig.json
+tsconfig.build.json
+tsconfig.spec.json
+*.tsbuildinfo
+jest.config.ts
+
+# packages
+node_modules
+
+# git
+.git
+.gitignore
+
+# lock file
+bun.lockb
